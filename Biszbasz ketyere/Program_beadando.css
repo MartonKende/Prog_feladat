@@ -1,0 +1,92 @@
+header{
+text-align: center;
+background-color: rgb(56, 185, 236);
+width: 70%;
+margin: 0 auto;
+padding-bottom: 2rem;
+padding-top: 2rem;
+}
+
+nav{
+
+
+}
+body{  
+    background-image: url(madaras_bgi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hatter{
+   background-color: white;
+   width: 70%;
+   margin: 0 auto;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   padding-left: 1rem;
+   padding-right: 1rem;
+   border: 0.3rem solid rgb(56, 185, 236);
+
+}   
+
+hr{
+    height: 1rem;
+    color: black;
+}
+.img_csont{
+    height: 20rem;
+    width: 13rem;  
+    float: right;
+}
+.img_tojás{
+    height: 10rem;
+    width: 12rem;  
+    float: right;
+    border-radius: 1rem;
+}
+.img_vándorlás{
+    height: 12.5rem;
+    width: 17.5rem;  
+    float: right;   
+    border-radius: 1rem;
+}
+.madar_fütty{
+    width: 17rem;
+    float: right;
+    border-radius: 1rem;
+}
+.img-madar_tör{
+    height: 15rem;
+    width: 14rem;  
+    float: right;
+    border-radius: 1rem;
+}
+footer{
+padding-bottom: 5rem;
+padding-top: 1rem;
+height: 5%;
+background-color: rgb(56, 185, 236);
+width: 70%;
+margin: 0 auto;
+
+}
+.nav-link span {
+    transition: transform 0.3s, color 0.3s, text-shadow 0.3s;
+    color: black;
+    display: inline-block;
+  }
+
+.nav-link:hover span {
+    transform: scale(1.2);
+    color: orange;
+    text-shadow: 0 0 10px orange;
+  }
+
+.kep{
+width: 298px;
+height: 400px;
+}
+.kep1{
+    width: 348px;
+    height: 400px;
+    padding-left: 50px;
+}
